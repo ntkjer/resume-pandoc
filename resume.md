@@ -9,65 +9,60 @@ right-column:
   - 'Email: [ntkjer@gmail.com](mailto:ntkjer@gmail.com)'
   - 'GitHub: [ntkjer](https://www.github.com/ntkjer)'
   - 'LinkedIn: [nielskjer](https://www.linkedin.com/in/nielskjer)'
-  - 'Phone: 562-964-4426'
+  - 'Phone: (562) 964-4426'
   - 'Last Updated: \today'
 name-color: DarkSlateGray
 section-color: Tomato
 ...
 
 
-# Summary
-
-Currently an SRE at J.Crew, I work on building monitoring solutions and internal tools for observability and reliability initiatives. My key interests are in containers and orchestration, Linux, and Go. 
-
-
 # Experience
 
-## J. Crew  
+## J. Crew 
 
 \vspace{-1truemm}
 
-Site Reliability Engineer; May 2019 - Present; NYC
+Site Reliability Engineer
+: \hfill May 2019 - Present
+
+\vspace{-1truemm}
+New York, NY
+\vspace{-1truemm}
+
+Skills:
+
+: AWS, Golang, Bash, Python, Grafana, Prometheus, Docker, Kubernetes, Helm,
+    Terraform, git, RHEL/Amazon Linux, Nginx, Jenkins, Ansible, AppDynamics, InfluxDB.
+
+Overview:
+:   - Developed custom metric exporter services using the Prometheus client library.
+    - Designed, developed, and managed the alerting and monitoring infrastructure for J.Crew production and lower environments using Prometheus and Grafana.
+    - Wrote Go, Python, and bash code for internal tooling and APIs.
+    - Wrote and maintained infrastructure related assets such as Dockerfiles, Kubernetes, Nginx configs, and Terraform codebase.
+    - Wrote technical documentation for architecture and code reviews.
+    - Participated in an on-call rotation for production troubleshooting.
+
+## IBM
+
+\vspace{-1truemm}
+
+Software Development Engineer  
+: \hfill July 2017 - July 2018
+
+\vspace{-1truemm}
+Austin, Texas
 
 \vspace{-1truemm}
 
 Skills:
 
-: AWS, Golang, Bash, Python, Grafana, Prometheus, Docker, Kubernetes, Thanos,
-    Terraform, GitHub, Markdown, Nginx, Jenkins, Ansible, RHEL/Amazon Linux, AppDynamics, InfluxDB.
-
-\vspace{-1truemm}
+: Python, Flask, Angular, SQLite, Jinja2, Bash, Ansible, Jenkins, Kafka, Elasticsearch, Logstash, git, RHEL/CentOS, Nginx, Kubernetes, Docker.
 
 Overview:
-
-:   - Designed, developed, and managed the alerting and monitoring infrastructure for J.Crew. 
-    - Programmatically template metrics and KPIs for production and lower environments using Grafana.
-    - Implemented custom Prometheus exporters using Golang. 
-    - Created probes and alerts using Alertmanager, Grafana, SensuGo, and custom metrics. 
-    - Wrote Golang, Python, and bash code for internal tooling.
-    - Migrated from ECS to EKS.
-    - Wrote and maintained Dockerfiles, Kubernetes yamls, Nginx configs, and Terraform codebase.
-    - Wrote architecture documents for our EKS migration and Thanos implementation.
-    - Participated in an on-call rotation for production environment.
-
-## IBM - CISO
-
-\vspace{-1truemm}
-
-Software Engineer: Monitoring and Tooling; July 2017 - July 2018; Austin, Texas
-
-\vspace{-1truemm}
-
-Skills:
-
-: Python, Flask, Angular, SQLite, Jinja2, Bash, Ansible, Jenkins, Kafka, ELK, git, RHEL/CentOS, Nginx, Kubernetes, Docker, Apache NiFi.
-
-\vspace{-1truemm}
-
-Overview:
-
-:   - Developed and maintained internal tools and microservices for internal CISO.
-    - Maintained and supported internal ELK-based SIEM platform.
+:   - Implemented data-reliability API using Python for tracking reliability of internal SIEM data.
+    - Maintained code and developed features for internal honeypot service built using Flask, SQLite, and Angular.
+    - Wrote internal architecture and design documentation.
+    - Participated in an on-call rotation for threat detection platform and search infrastructure.
 
 ## Internships
 
@@ -75,28 +70,20 @@ Overview:
 
 Victorise:
 
-:   Software Engineering Intern; November 2016 - Feb 2017; remote, part-time
+:   Software Development Engineer Intern \hfill March 2017 - May 2017 
 
-\vspace{-2truemm}
-
-Skills:
-
-:   AWS, Three.js, WebGL, Javascript, git, Node, Express.
+\vspace{-1truemm}
 
 
 Stacklist:
 
-:   Data Science Intern; Mar 2016 - Aug 2016; NYC, full-time
+:   Data Science Intern \hfill Mar 2016 - Aug 2016
 
-\vspace{-2truemm}
-
-Skills:
-
-:   Python, Java, SQLite, MongoDB 
+\vspace{-1truemm}
 
 
 # Education
 
 Sarah Lawrence College
 
-:   Computer Science and Math, BA; 2013-2017.
+:  B.A. Liberal Arts: Computer Science and Math \hfill 2013 - 2017
