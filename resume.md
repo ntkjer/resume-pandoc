@@ -86,4 +86,4 @@ Stacklist:
 
 Sarah Lawrence College
 
-:  B.A Liberal Arts: Computer Science and Math \hfill 2013 - 2017
+:  B.A. Liberal Arts: Computer Science and Math \hfill 2013 - 2017
