@@ -38,7 +38,7 @@ Overview:
 :   - Developed custom metric exporter services using the Prometheus client library.
     - Designed, developed, and managed the alerting and monitoring infrastructure for J.Crew production and lower environments using Prometheus and Grafana.
     - Wrote Go, Python, and bash code for internal tooling and APIs.
-    - Wrote and maintained infrastructure related assets such as Dockerfiles, Kubernetes, Nginx configs, and Terraform codebase.
+    - Wrote and maintained codebase for infrastructure related assets such as Docker, Kubernetes, Helm, Nginx, and Terraform.
     - Wrote technical documentation for architecture and code reviews.
     - Participated in an on-call rotation for production troubleshooting.
 
